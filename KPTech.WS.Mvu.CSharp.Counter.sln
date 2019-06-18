@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F82841B7-C757-488D-94C0-B59311120F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPTech.WS.Mvu.CSharp.Increment.App", "src\KPTech.WS.Mvu.CSharp.Increment.App\KPTech.WS.Mvu.CSharp.Increment.App.csproj", "{C6859E7F-D426-4E80-9268-612538A59CED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPTech.WS.Mvu.CSharp.Counter.App", "src\KPTech.WS.Mvu.CSharp.Counter.App\KPTech.WS.Mvu.CSharp.Counter.App.csproj", "{C6859E7F-D426-4E80-9268-612538A59CED}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KPTech.WS.Mvu.FSharp.Extensions", "src\KPTech.WS.Mvu.FSharp.Extensions\KPTech.WS.Mvu.FSharp.Extensions.fsproj", "{4B457114-9E81-4473-96A6-E8C0240D17ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPTech.WS.Mvu.CSharp.Increment", "src\KPTech.WS.Mvu.CSharp.Increment\KPTech.WS.Mvu.CSharp.Increment.csproj", "{3A8C2EE7-74F4-4DE8-8388-3B26653E6DD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPTech.WS.Mvu.CSharp.Counter", "src\KPTech.WS.Mvu.CSharp.Counter\KPTech.WS.Mvu.CSharp.Counter.csproj", "{3A8C2EE7-74F4-4DE8-8388-3B26653E6DD5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPTech.WS.Mvu.CSharp.Extensions", "src\KPTech.WS.Mvu.CSharp.Extensions\KPTech.WS.Mvu.CSharp.Extensions.csproj", "{B886AD9D-2127-4C63-BD21-CF204D89621C}"
 EndProject
