@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using WebSharper.AspNetCore;
 
-namespace KPTech.WS.Mvu.CSharp.Increment.App
+namespace KPTech.WS.Mvu.CSharp.Counter.App
 {
     public class Startup
     {

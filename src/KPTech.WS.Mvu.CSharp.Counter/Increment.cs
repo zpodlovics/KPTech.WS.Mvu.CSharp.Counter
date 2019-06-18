@@ -7,7 +7,7 @@
 
 using WebSharper;
 
-namespace KPTech.WS.Mvu.CSharp.Increment
+namespace KPTech.WS.Mvu.CSharp.Counter
 {
     [JavaScript]
     public sealed class Increment: Msg
