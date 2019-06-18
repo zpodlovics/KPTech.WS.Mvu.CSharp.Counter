@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <WebSharperProject>Library</WebSharperProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WebSharper" Version="4.5.14.339" />
+    <PackageReference Include="WebSharper.CSharp" Version="4.5.14.339" />
+    <PackageReference Include="WebSharper.FSharp" Version="4.5.14.339" />    
+    <PackageReference Include="WebSharper.UI" Version="4.5.11.174" />
+  </ItemGroup>
+
+</Project>
